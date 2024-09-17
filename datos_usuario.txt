@@ -1,1 +1,2 @@
 “Usuario=vagrant”
+Model name=model name	: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
